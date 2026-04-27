@@ -1,5 +1,6 @@
 body {
     background-color: #ffffff; /* Или любой другой ваш цвет, главное не transparent */
+    min-width: 500px;
 }
 
 .page-container {
@@ -9,6 +10,7 @@ body {
 
 .page-header {
     background-color: white;
+    min-width: 460px;
     display: flex;
     position: fixed;
     top: 0;
